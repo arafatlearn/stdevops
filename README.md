@@ -6,3 +6,5 @@ As a quick learner and a team player, I actively seek opportunities to expand my
 
 Outside of work, I enjoy staying up-to-date with the latest industry trends, attending tech meetups, and engaging in open-source projects to give back to the community. I am excited to continue my journey as a DevOps engineer and make significant contributions to the success and growth of ShareTrip LTD.
 
+new line
+
